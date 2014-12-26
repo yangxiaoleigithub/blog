@@ -1,0 +1,51 @@
+menu:
+  首页: /
+  博客: /archives
+  关于我: /about
+
+widgets:
+# 配置页脚显示哪些小挂件
+- search
+- category
+- tag
+- recent_posts
+- tagcloud
+cover:
+  enable: true
+  # url: http://bcs.duapp.com/xiaoleihexo/banner.jpg
+  url: http://yangxiaolei.qiniudn.com/banner2.jpg
+   
+excerpt_link: Read More
+
+full_format: 'ddd, MMM D YYYY, h:mm:ss a'
+
+addthis:
+  enable:
+  pubid:
+  facebook:
+  twitter:
+  google: 
+  pinterest:
+
+fancybox: true
+
+google_analytics: UA-368771XX-X
+rss:
+
+comment_provider: duoshuo
+
+# Duoshuo comment
+duoshuo:
+  short_name: yangxiaoleicom
+
+social:
+  github: https://github.com/yangxiaoleigithub
+  weibo: http://weibo.com/xiaoleiswift
+  google_plus: 
+
+  # 友情链接
+  blogrolls:
+  # - bruce sha's javaeye: http://buru.iteye.com
+
+auto_change:
+  enable: true
